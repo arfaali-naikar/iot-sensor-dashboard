@@ -14,5 +14,4 @@ An IoT project built using ESP32-S3 WROOM and Flask backend to monitor and visua
 > Chart.js – Real-time data visualization (frontend).
 > GitHub – Project collaboration and version control.
 
-##  System Overview
 
